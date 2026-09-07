@@ -1,11 +1,12 @@
-# 👋 Oi, eu sou a Eloiza Simões!
+# 👋 Oi, eu sou a Eloiza Simões
 
-🎓 Estudante de **Ciência da Computação | PUC Minas**
-💻 Técnica em **Desenvolvimento de Sistemas | SENAI**
-👩🏻‍💻 Experiência com **desenvolvimento de software, front-end, back-end e banco de dados**
-🚀 Apaixonada por tecnologia, programação e aprendizado contínuo
+🎓 Estudante de **Ciência da Computação | PUC Minas**<br>
+💻 Técnica em **Desenvolvimento de Sistemas**<br>
+👩🏻‍💻 Experiência com **desenvolvimento de software, front-end, back-end e banco de dados**<br>
+🚀 Apaixonada por tecnologia, programação e aprendizado contínuo<br>
 📚 Sempre buscando aprender, criar projetos e evoluir na área de tecnologia
 
+---
 
 ## 🛠️ Tecnologias e Habilidades:
 ![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=c-sharp&logoColor=white)
