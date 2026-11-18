@@ -9,15 +9,12 @@
 
 <h2 align="center">👋 Oi, eu sou a Eloiza Simões!</h2>
 
-<div align="center">
-
 🎓 Estudante de **Ciência da Computação | PUC Minas**  
 💻 Técnica em **Desenvolvimento de Sistemas | SENAI**  
 👩🏻‍💻 Experiência com **desenvolvimento de software, front-end, back-end e banco de dados**  
 🚀 Apaixonada por tecnologia, programação e aprendizado contínuo  
 📚 Sempre buscando aprender, criar projetos e evoluir na área de tecnologia
 
-</div>
 
 ---
 
