@@ -12,11 +12,15 @@
 
 🎓 Estudante de **Ciência da Computação | PUC Minas**  
 💻 Técnica em **Desenvolvimento de Sistemas | SENAI**  
-🚀 Interessada em desenvolvimento de software e novas tecnologias
+👩🏻‍💻 Experiência com **desenvolvimento de software, front-end, back-end e banco de dados**  
+🚀 Apaixonada por tecnologia, programação e aprendizado contínuo  
+📚 Sempre buscando aprender, criar projetos e evoluir na área de tecnologia
 
 </div>
 
-<h2 align="center">🛠️ Tecnologias</h2>
+---
+
+<h2 align="center">🛠️ Tecnologias e Habilidades</h2>
 
 <div align="center">
 
@@ -28,6 +32,8 @@
 
 </div>
 
+---
+
 <h2 align="center">🐍 Minhas contribuições</h2>
 
 <div align="center">
@@ -36,6 +42,8 @@
 
 </div>
 
+---
+
 <h2 align="center">📫 Vamos nos conectar!</h2>
 
 <div align="center">
@@ -43,18 +51,24 @@
 <a href="https://www.linkedin.com/in/eloiza-sim%C3%B5es-fernandes/">
 <img src="https://img.shields.io/badge/LinkedIn-A855F7?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
 <a href="mailto:eloizasimoes.contato@gmail.com">
 <img src="https://img.shields.io/badge/Email-FF69B4?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+
 <a href="https://www.instagram.com/eloizaasimoes/">
 <img src="https://img.shields.io/badge/Instagram-C026D3?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
+
+<br><br>
 
 ⭐ Obrigada por visitar meu perfil!
 
 </div>
 
 <div align="center">
+
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,100:FF69B4&height=100&section=footer)
 
 </div>
+acho qe ta com linhas demias como possomelhorar
