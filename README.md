@@ -1,6 +1,8 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=160&section=header&text=Eloiza%20Sim%C3%B5es&fontSize=40&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,6&height=170&section=header&text=Eloiza%20Sim%C3%B5es&fontSize=42&fontColor=ffffff&animation=twinkling)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=C026D3&center=true&vCenter=true&width=520&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;T%C3%A9cnica+em+Desenvolvimento+de+Sistemas;Apaixonada+por+tecnologia)](https://github.com/eloizasimoes)
 
 </div>
 
